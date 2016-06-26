@@ -26,7 +26,10 @@ Branches will be helpful when you add experimental features or features that are
 	guaranteed to work, for example. In general, when you want to take risks in writing code
 	without any consequences.
 
-How do the diagrams help you visualize the branch structure?
+5) How do the diagrams help you visualize the branch structure?
+
+The diagrams help to show th parent of each commit as well as where the code starts
+	to differ or when different paths are taken.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
