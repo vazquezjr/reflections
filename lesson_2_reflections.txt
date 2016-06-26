@@ -38,5 +38,10 @@ The two branches combine into a single path with changes from both paths being
 	implemented. It shows that the branches have combined into a single branch,
 	reflecting both changes.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+The pros of automatic merging is that it is simple and quick vs. manual merges which
+	take some time to review and finalize before you make the commit. On the
+	otherhand, I would have complete control over the changes that the merge
+	introduces to nay files, as opposed to automatic merging.
