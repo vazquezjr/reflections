@@ -31,8 +31,12 @@ Branches will be helpful when you add experimental features or features that are
 The diagrams help to show th parent of each commit as well as where the code starts
 	to differ or when different paths are taken.
 
-What is the result of merging two branches together? Why do we represent it in
+6) What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+The two branches combine into a single path with changes from both paths being
+	implemented. It shows that the branches have combined into a single branch,
+	reflecting both changes.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
