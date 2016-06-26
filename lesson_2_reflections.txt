@@ -19,8 +19,12 @@ I can use git diff to see if I made any changes since my last commit, then I can
 	the staging area. This allows me to see if my changes since the latest commit
 	constitute a logical change.
 
-What are some situations when branches would be helpful in keeping your history
+4) What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches will be helpful when you add experimental features or features that are not
+	guaranteed to work, for example. In general, when you want to take risks in writing code
+	without any consequences.
 
 How do the diagrams help you visualize the branch structure?
 
