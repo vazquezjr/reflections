@@ -21,10 +21,12 @@ A fork is used to make a copy of a repository while giving credit to the owner o
     is useful if you are a contributer to a repo that you are cloning. A branch is
     useful for testing and developing new features that want to be added.
 
-What is the benefit of having a copy of the last known state of the remote
+4) What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+You can continue to make changes to your repo without having to worry about changes being made to the main repo. To push the changes
+    to GitHub you can then perform git pull to update your local remote and, afterwards, git push to push the changes into
+    the GitHub repo.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
