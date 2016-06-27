@@ -4,10 +4,11 @@ local?
 When you would want to share your work with others as well as working with others
     on the same project.
     
-Why might you want to always pull changes manually rather than having Git
+2) Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+The commits may have changes that are not fully operational, thus resulting in a branch
+    that have many non-logical commits.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
