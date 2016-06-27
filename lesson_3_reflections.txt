@@ -28,12 +28,14 @@ You can continue to make changes to your repo without having to worry about chan
     to GitHub you can then perform git pull to update your local remote and, afterwards, git push to push the changes into
     the GitHub repo.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5) How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
-
-When would you want to make changes in a separate branch rather than directly in
+My group and I would have to get together and work on the projects as well as strictly agreeing on any conventions or
+    any design structures that we decide to use. Without using Git or GitHub, we would not need to learn anything new
+    regarding Git and GitHub. However, working collaboratively would be much tougher since it would harder to track a
+    large amount of changes between myself and anyone in any group that we work in.
+    
+6) When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
