@@ -10,10 +10,16 @@ automatically stay up-to-date with your remote repository?
 The commits may have changes that are not fully operational, thus resulting in a branch
     that have many non-logical commits.
 
-Describe the differences between forks, clones, and branches.  When would you
+3) Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+A fork is used to make a copy of a repository while giving credit to the owner of the original
+    repository. A clone is used to make a copy of a repository of GitHub on your local machine.
+    A branch is used when you want to make other experimental changes before deciding that it
+    should be a part of the application or before the feature is operational. A fork is useful
+    to be able to push to a repo while also giving credit to the original owner(s). A clone
+    is useful if you are a contributer to a repo that you are cloning. A branch is
+    useful for testing and developing new features that want to be added.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
