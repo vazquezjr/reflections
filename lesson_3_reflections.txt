@@ -39,3 +39,7 @@ My group and I would have to get together and work on the projects as well as st
 6) When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
+Making changes in a separate branch can be beneficial when working with others in developing a feature that can then be
+    shared with the rest of the collaborators once the feature is finished or is updated by using a pull request. Working
+    on master can be beneficial as well, for adding and changing main features that are crucial part of the application
+    being worked on.
